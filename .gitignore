@@ -1,0 +1,5 @@
+# Local .terraform directories
+.idea
+
+# Crash log files
+crash.log
