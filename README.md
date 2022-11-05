@@ -1,0 +1,2 @@
+# azure
+Deploy for azure
