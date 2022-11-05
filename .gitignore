@@ -1,7 +1,7 @@
 # Local .terraform directories
 .idea
 **/.terraform/*
-deploy/dev/.terraform.lock.*
+deploy/dev/.terraform.lock.hcl
 
 # .tfstate files
 *.tfstate
